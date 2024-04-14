@@ -1,6 +1,4 @@
-Here's a README file template for your movie details search app named "MoviesPointByOm":
 
----
 
 # MoviesPointByOm
 
